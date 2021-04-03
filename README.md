@@ -1,2 +1,2 @@
-# Bank_systen
+# Bank_system
 Java Core, OOP
